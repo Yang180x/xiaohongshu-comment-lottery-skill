@@ -183,21 +183,25 @@ pip install openpyxl
 
 克隆仓库：
 
-```bash
 git clone https://github.com/Yang180x/xiaohongshu-comment-lottery-skill.git
-```
 
 然后将仓库放入对应 AI Agent 的 Skill 目录。
 
-例如 WorkBuddy：
+推荐直接让你的 AI Agent 帮你完成安装。
 
-```bash
-git clone https://github.com/Yang180x/xiaohongshu-comment-lottery-skill.git \
-~/.workbuddy/skills/小红书评论区寄样用户筛选
-```
+将下面这段话发送给 Cursor、Claude Code、Codex、WorkBuddy、CodeBuddy 等 Agent：
 
-其他 AI Agent 按照自身 Skill / Rules / Agent 配置方式安装即可。
+```text
+请帮我安装这个 Skill：
 
+https://github.com/Yang180x/xiaohongshu-comment-lottery-skill
+
+请根据你当前 AI Agent 的 Skill 目录和配置方式完成安装，并检查 SKILL.md 是否能够正常加载。
+
+安装完成后告诉我：
+1. Skill 安装位置
+2. 是否安装成功
+3. 是否可以正常调用
 ---
 
 # 🚀 使用方式
