@@ -179,7 +179,7 @@ pip install openpyxl
 
 ---
 
-# 📦 安装 Skill
+## 📦 安装 Skill
 
 克隆仓库：
 
@@ -205,7 +205,9 @@ https://github.com/Yang180x/xiaohongshu-comment-lottery-skill
 
 ---
 
-# 🚀 使用方式
+
+
+## 🚀 使用方式
 
 安装完成后，直接告诉 AI Agent：
 
