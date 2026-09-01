@@ -19,7 +19,7 @@
 
 ```text
 帮我从这篇笔记的评论区筛选 10 位适合寄样的用户：
-https://www.xiaohongshu.com/explore/xxxx
+https://www.xiaohongshu.com/explore/xxxx（相关小红书笔记链接）
 ```
 
 Skill 会自动完成：
