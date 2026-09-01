@@ -202,10 +202,8 @@ https://github.com/Yang180x/xiaohongshu-comment-lottery-skill
 1. Skill 安装位置
 2. 是否安装成功
 3. 是否可以正常调用
-
+```
 ---
-
-
 
 ## 🚀 使用方式
 
